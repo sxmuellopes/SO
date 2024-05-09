@@ -1,3 +1,6 @@
+#André Araújo Cizotti 10409439
+#Samuel Lopes Pereira 10403767 
+
 #include <stdio.h>
 #include <stdlib.h>
 
